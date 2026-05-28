@@ -11,7 +11,7 @@ A modular, multi-source daily job scanner powered by Google Apps Script. Automat
 
 | Folder | Source | Status |
 |--------|--------|--------|
-| `jobright/` | Jobright Gmail alerts | Active |
+| `jobsearch/` | Jobright Gmail alerts | Active |
 | `linkedin/` | LinkedIn job alerts | Coming soon |
 | `indeed/` | Indeed job alerts | Coming soon |
 
@@ -19,8 +19,9 @@ A modular, multi-source daily job scanner powered by Google Apps Script. Automat
 
 ```
 dailyjobscanner/
-  jobright/
+  jobsearch/
     Code.gs       # Google Apps Script for Jobright Gmail scanner
+    profile.yml   # Candidate profile (edit to customize)
   linkedin/       # Placeholder for LinkedIn scanner (coming soon)
   README.md
 ```
@@ -34,7 +35,7 @@ dailyjobscanner/
 
 ## Setup (Jobright Scanner)
 
-1. Copy `jobright/Code.gs` into a new Google Apps Script project
+1. Copy `jobsearch/Code.gs` into a new Google Apps Script project
 2. Run `setOpenRouterKey()` once to store your OpenRouter API key
 3. Run `setOpenAiKey()` once to store your OpenAI API key (fallback)
 4. Run `createScanSheet()` once to create the output Google Sheet
