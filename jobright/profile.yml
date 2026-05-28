@@ -1,0 +1,106 @@
+# Candidate profile used by the Jobright Daily Scanner
+# Edit this file to update your profile, then re-run the setup function
+# to sync it to Google Drive (see README for instructions).
+
+name: "Vishal S"
+
+target_roles:
+  - "Software Engineer"
+  - "Senior Software Engineer"
+  - "Lead Engineer"
+  - "Solutions Architect"
+  - "Engineering Manager"
+  - "AI Engineer"
+  - "AI Architect"
+  - "Staff Engineer"
+
+years_experience: 10
+management_years: 3
+
+core_skills:
+  - "Python"
+  - "C#"
+  - ".NET"
+  - "SQL"
+  - "REST API"
+  - "Microservices"
+  - "Distributed Systems"
+  - "System Design"
+
+ai_ml_skills:
+  - "LangGraph"
+  - "LangChain"
+  - "RAG"
+  - "LLM Orchestration"
+  - "Agentic AI"
+  - "Multi-agent frameworks"
+  - "Prompt Engineering"
+  - "Vector Databases"
+  - "LLM API Integration"
+  - "OpenAI"
+  - "Anthropic"
+  - "NLP"
+  - "Retrieval-Augmented Generation"
+  - "AI Pipelines"
+
+cloud_infra:
+  - "AWS"
+  - "EKS"
+  - "Kubernetes"
+  - "Docker"
+  - "CI/CD"
+  - "Containerization"
+  - "API Gateway"
+  - "Cloud Architecture"
+  - "Observability"
+  - "OpenTelemetry"
+  - "Distributed Tracing"
+
+databases:
+  - "SQL Server"
+  - "PostgreSQL"
+  - "NoSQL"
+  - "Vector DB"
+  - "Pinecone"
+  - "Redis"
+
+patterns:
+  - "CQRS"
+  - "Event-Driven Architecture"
+  - "Mediator Pattern"
+  - "Prototype Pattern"
+  - "SOLID"
+  - "Clean Architecture"
+  - "Microservices Architecture"
+
+soft_skills:
+  - "Offshore Team Management"
+  - "Technical Leadership"
+  - "System Design"
+  - "Cross-functional Collaboration"
+  - "Architecture Decision Records"
+
+hard_disqualifiers:
+  - "TypeScript"
+  - "Node.js"
+  - "Java"
+  - "Go"
+  - "Golang"
+  - "Ruby"
+  - "PHP"
+  - "Scala"
+  - "Django"
+
+domain_gaps:
+  - "Healthcare"
+  - "HIPAA"
+  - "FinTech"
+  - "Crypto"
+  - "Web3"
+  - "Insurance"
+  - "FDA"
+  - "Blockchain"
+
+preferred_salary_min: 130000
+work_authorization: "US Citizen or GC"
+location: "Remote preferred"
