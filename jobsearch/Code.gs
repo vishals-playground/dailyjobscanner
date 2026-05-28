@@ -19,7 +19,7 @@ var PROFILE = {
     "AI Architect", "Staff Engineer"
   ],
   years_experience: 10,
-  management_years: 3,
+  management_years:  3,
   core_skills: [
     "Python", "C#", ".NET", "SQL", "REST API",
     "Microservices", "Distributed Systems", "System Design"
